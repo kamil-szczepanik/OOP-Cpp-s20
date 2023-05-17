@@ -18,3 +18,10 @@ class Complex_number
 Napisać klasę Lista przechowującą elementy typu T o maksymalnej pojemności N
 </details>
 
+
+<details>
+<summary>Project</summary>
+PROI projekt - baza przesyłek kurierskich
+
+[Repozytorium projektu](https://gitlab-stud.elka.pw.edu.pl/ksiwiec/proi20l_proj1_g2)
+</details>
